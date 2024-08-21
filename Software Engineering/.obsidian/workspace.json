@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "dfa7ad6740ba2ab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "179f3df949bde939",
+        "type": "tabs",
+        "dimension": 60.798122065727696,
+        "children": [
+          {
+            "id": "f6c009b749338f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Build Responsive Real-World Websites with HTML and CSS/CSS Fundamentals/Color.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5766e54940471ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NeetCode/DSA/Arrays/Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baba0cca0a429390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/CRUD Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9999b0aa28e238b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/One to Many Joins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccfe9f25846fd318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accenture Interview Prep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c49696f4b164366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Zero to First Job/OOP/OOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3931ff26810b893",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "64cc4d89d1ddb56d",
+        "type": "tabs",
+        "dimension": 39.201877934272304,
+        "children": [
+          {
+            "id": "c9a6afffb479752f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4b746a9299a1017",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d4d1ff01e6d9e76",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a4291926f335fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26006e3391b5284c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be726f1b1dd76589",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a4c4578fabb3cd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad4d1c482b6fcae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd4fde95700f3595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5cec44a4da25fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java Zero to First Job/OOP/OOP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a54d9a7bac565d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java Zero to First Job/OOP/OOP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eef3d5cf29cebeab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "646a129834c89135",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java Zero to First Job/OOP/OOP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3c49696f4b164366",
+  "lastOpenFiles": [
+    "Build Responsive Real-World Websites with HTML and CSS/CSS Fundamentals/Color.md",
+    "Java Zero to First Job/Java.md",
+    "Java Zero to First Job/OOP/OOP.md",
+    "The HTML & CSS Bootcamp 2024 Edition/HTML Document Structure.md",
+    "The HTML & CSS Bootcamp 2024 Edition/The Web.md",
+    "The HTML & CSS Bootcamp 2024 Edition",
+    "AWS/Amazon EC2.md",
+    "AWS/IAM - Users & Groups.md",
+    "AWS",
+    "Spring Boot/Section 7 - Spring MVC Thymeleaf/Adding Data to Spring MVC Model.md",
+    "Java Zero to First Job/OOP",
+    "Java Zero to First Job",
+    "Spring Boot/Section 5 - Spring Boot REST API Security/Spring Boot Security REST API Concepts.md",
+    "Spring Boot/Section 4 - REST CRUD/Spring Data JPA in Spring Boot.md",
+    "Spring Boot/Section 4 - REST CRUD/Exception Handling.md",
+    "Spring Boot/Section 3 - Hibernate JPA CRUD/Spring REST Controller.md",
+    "Spring Boot/Section 3 - Hibernate JPA CRUD/ORM.md",
+    "Spring Boot/Section 3 - Hibernate JPA CRUD/MySQL Workbench.md",
+    "Spring Boot/Section 3 - Hibernate JPA CRUD/MySQL Database Server.md",
+    "Spring Boot/Section 3 - Hibernate JPA CRUD/MYSQL Database.md",
+    "Spring Boot/Section 3 - Hibernate JPA CRUD/JPA.md",
+    "Spring Boot/Section 3 - Hibernate JPA CRUD/Hibernate JPA Overview.md",
+    "Spring Boot/Section 3 - Hibernate JPA CRUD/Automatic Data Source Configuration.md",
+    "Spring Boot/Section 2 - Spring Core/Inversion of Control.md",
+    "Spring Boot/Section 2 - Spring Core/Component Scanning.md",
+    "Spring Boot/Section 2 - Spring Core/Bean Scopes.md",
+    "Spring Boot/Section 2 - Spring Core/Dependency Injection.md",
+    "Spring Boot/Section 9 - JPA Hibernate Advanced Mappings/JPA Hibernate Advanced Mappings.md",
+    "MySQL/One to Many Joins.md",
+    "Accenture Interview Prep.md",
+    "Spring Boot/Section 9 - JPA Hibernate Advanced Mappings",
+    "Regular Expressions",
+    "Spring Boot/Section 7 - Spring MVC Thymeleaf",
+    "Spring Boot/Section 5 - Spring Boot REST API Security",
+    "Complete Python Bootcamp/Course Overview",
+    "Complete Python Bootcamp",
+    "Spring Boot/Section 2 - Spring Core/IDE Warning - No usages.png",
+    "Full Stack React and Java Spring Boot/react-icon.png"
+  ]
+}

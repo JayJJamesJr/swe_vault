@@ -1,0 +1,4 @@
+- All variables belong to the thread executing on that stack.
+- Statically allocated when the thread is created.
+- The stack's size is fixed, and relatively small (platform specific)
+- If our calling hierarchy is too deep. We may get an StackOverflow Exception. (Risky with recursive calls)

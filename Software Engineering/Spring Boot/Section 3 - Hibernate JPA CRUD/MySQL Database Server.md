@@ -1,0 +1,3 @@
+- The MySQL Database Server is the main engine of the database
+- Stores data for the database
+- Supports CRUD features on the data

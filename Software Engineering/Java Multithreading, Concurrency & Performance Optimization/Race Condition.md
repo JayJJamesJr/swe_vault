@@ -1,0 +1,2 @@
+- Condition when multiple threads are accessing a shared resource.
+- At least one thread is modifying the resource.
